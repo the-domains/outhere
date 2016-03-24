@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://github.com'
-  name: GitHub
-  favicon: 'https://assets-cdn.github.com/favicon.ico'
-  domain: github.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://github.com/google/domaintest'
+inLanguage: en
+starred: false
 keywords:
   - domaintest
   - domain
@@ -18,17 +17,20 @@ keywords:
   - service
   - token
 description: domaintest - Domain Test service for new TLDs.
-inLanguage: en
+datePublished: '2016-03-24T12:28:36.292Z'
+dateModified: '2016-03-24T12:27:20.076Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://github.com/google/domaintest'
 title: google/domaintest
-datePublished: '2016-03-24T12:27:17.132Z'
-dateModified: '2016-03-24T12:26:10.779Z'
 sourcePath: _posts/2016-03-24-googledomaintest.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: GitHub
+  domain: github.com
+  url: 'https://github.com'
+  favicon: 'https://assets-cdn.github.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
