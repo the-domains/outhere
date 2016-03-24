@@ -16,13 +16,13 @@ keywords:
   - parameters
   - service
   - token
-description: domaintest - Domain Test service for new TLDs.
-datePublished: '2016-03-24T12:28:36.292Z'
-dateModified: '2016-03-24T12:27:20.076Z'
+description: Does your app work on new TLDs?
+datePublished: '2016-03-24T12:31:30.759Z'
+dateModified: '2016-03-24T12:31:22.089Z'
 author: []
 related: []
 app_links: []
-title: google/domaintest
+title: New TLD testing service
 sourcePath: _posts/2016-03-24-googledomaintest.md
 published: true
 authors: []
