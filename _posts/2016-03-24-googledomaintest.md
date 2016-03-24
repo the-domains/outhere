@@ -1,10 +1,11 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://github.com/google/domaintest'
-inLanguage: en
-starred: false
+author: []
+related: []
+publisher:
+  url: 'https://github.com'
+  name: GitHub
+  favicon: 'https://assets-cdn.github.com/favicon.ico'
+  domain: github.com
 keywords:
   - domaintest
   - domain
@@ -17,24 +18,19 @@ keywords:
   - service
   - token
 description: domaintest - Domain Test service for new TLDs.
-datePublished: '2016-03-24T12:25:37.107Z'
-dateModified: '2016-03-24T12:24:48.233Z'
-author: []
-related: []
+inLanguage: en
 app_links: []
+isBasedOnUrl: 'https://github.com/google/domaintest'
 title: google/domaintest
-authors: []
-publisher:
-  name: GitHub
-  domain: github.com
-  url: 'https://github.com'
-  favicon: 'https://assets-cdn.github.com/favicon.ico'
+datePublished: '2016-03-24T12:27:17.132Z'
+dateModified: '2016-03-24T12:26:10.779Z'
 sourcePath: _posts/2016-03-24-googledomaintest.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/754c6500-c158-4a56-8a09-f61785f3f63d.png)
-
-<article style=""><h1>New TLD testing tool</h1><p>Test your apps on new TLDs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7124b01b65d573016a9ca6e63b5273fef0a483e5.jpg" /></article>
+<article style=""><h1>google/domaintest</h1><p>domaintest - Domain Test service for new TLDs.</p><img src="https://avatars2.githubusercontent.com/u/1342004?v=3&amp;s=400" /></article>
